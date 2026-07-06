@@ -9,7 +9,7 @@
 
 ## About
 
-engineer placed via **Eclaro** at **SPINS** — working in a React/TypeScript monorepo (Nx) on data & analytics tooling for the natural products industry. night shift, remote, pair-programming heavy.
+engineer working in a React/TypeScript monorepo (Nx) on data & analytics tooling.
 
 background is backend/AI — spent ~2 years there before this pivot, still my strongest skillset:
 
@@ -37,9 +37,7 @@ tech = {
 |---------|-------------|--------|
 | **[recap](https://recap-landing-page.vercel.app/)** | discord AI summarization • multi-model support (gpt-4, claude, deepseek) | live |
 | **conversell** | facebook messenger AI agent • context-aware automation | private saas |
-| **recipe clustering (freelance)** | K-Means/Word2Vec clustering pipeline, capstone project for CavSU | complete |
 
-> production work at prior roles (salina — AI transcription, scoup — BI/social listening) is proprietary, happy to discuss in interviews
 
 <div align="center">
 
